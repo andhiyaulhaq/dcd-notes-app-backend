@@ -1,0 +1,12 @@
+{
+ "editor.insertSpaces": true,
+ "editor.detectIndentation": false,
+ "editor.tabSize": 2,
+ "prettier.tabWidth": 2,
+ "editor.defaultFormatter": null,
+ "vetur.format.defaultFormatter.js": "prettier-eslint",
+"editor.formatOnSave": true,
+"javascript.format.enable": false,
+"editor.indentSize": "tabSize",
+"files.eol": "\n"
+}
